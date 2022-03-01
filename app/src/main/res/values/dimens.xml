@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_text_size">19sp</dimen>
+    <dimen name="margin16">16dp</dimen>
+    <dimen name="margin32">32dp</dimen>
+    <dimen name="item_width">150dp</dimen>
+    <dimen name="item_height">200dp</dimen>
+    <dimen name="margin8">8dp</dimen>
+    <dimen name="card_corner">24dp</dimen>
+    <dimen name="temp_size">36dp</dimen>
+    <dimen name="size250">250dp</dimen>
+    <dimen name="size200">200dp</dimen>
+    <dimen name="size124">124dp</dimen>
+    <dimen name="corner_radius">8dp</dimen>
+    <dimen name="card_elevation">12dp</dimen>
+    <dimen name="stroke_width">1dp</dimen>
+    <dimen name="layout_height">300dp</dimen>
+    <dimen name="size65">65dp</dimen>
+    =======
+    >>>>>>> parent of c55cb82 (fix)
+
+</resources>
