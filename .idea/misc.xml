@@ -3,7 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/drawable/ic_baseline_cloud_queue_24.xml" value="0.196" />
+        <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.196" />
+        <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
+        <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/drawable/weather_icon.xml" value="0.196" />
         <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/frafment_search.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/fragment_daylist.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/fragment_search.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/item_forecast.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/item_serch_result.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/today_forecast.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/menu/menu.xml" value="0.18802083333333333" />
       </map>
     </option>
   </component>
