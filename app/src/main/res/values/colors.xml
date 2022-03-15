@@ -10,4 +10,5 @@
     <color name="mainTextColor">#203361</color>
     <color name="chipBackground">#CCEBEF</color>
     <color name="item_background">#44A7AF</color>
+    <color name="detail_background">#073C6A</color>
 </resources>
