@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">finalWeatherProject</string>
+    <string name="page_title">Местоположение</string>
+    <string name="today">Сегодня</string>
+    <string name="next_days">Следующие 5 дней</string>
+    <string name="start_typing">Введите ваше местоположение</string>
+    <string name="radio_group_header">Настройки</string>
+    <string name="radio_theme">Тема темная/светлая</string>
+    <string name="radio_temperture_units">Единицы температуры °C/°F</string>
+    <string name="check_update">Проверить обновление</string>
 </resources>
