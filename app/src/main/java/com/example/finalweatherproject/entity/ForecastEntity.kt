@@ -12,7 +12,7 @@ import kotlinx.parcelize.Parcelize
 data class ForecastEntity(
     @PrimaryKey(autoGenerate = true)
     @ColumnInfo(name = Constants.ID) val id: Int = 0,
-    @ColumnInfo(name = "City") val city: CityEntity?,
-    @ColumnInfo(name = "List") val list: List<ListItem>?
+    @ColumnInfo(name = Constants.CITY) val city: CityEntity?,
+    @ColumnInfo(name = Constants.LIST) val list: List<ListItem>?
 ) : Parcelable
 

@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.262" />
+        <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/drawable/ic_baseline_bubble_chart_24.xml" value="0.262" />
         <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.262" />
         <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/drawable/ic_baseline_cloud_queue_24.xml" value="0.196" />
         <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.196" />
@@ -11,10 +13,13 @@
         <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/frafment_search.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/fragment_daylist.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/fragment_details.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/fragment_search.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/fragment_settings.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/fragment_weather_detail.xml" value="0.24175824175824176" />
         <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/item_forecast.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/item_hours_of_day.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/item_search_result.xml" value="0.2164855072463768" />
         <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/item_serch_result.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/layout/today_forecast.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/ankas/AndroidStudioProjects/finalWeatherProject2/app/src/main/res/menu/menu.xml" value="0.18802083333333333" />

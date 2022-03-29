@@ -18,6 +18,7 @@
     <dimen name="size65">65dp</dimen>
     <dimen name="corner18">18dp</dimen>
     <dimen name="text_size14">14sp</dimen>
+    <dimen name="margin25">-25dp</dimen>
     =======
     >>>>>>> parent of c55cb82 (fix)
 
