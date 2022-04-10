@@ -19,7 +19,7 @@ object NotificationHelper {
     fun createNotification(context: Context, forecast:ForecastEntity) {
         val builder = NotificationCompat.Builder(context!!, NotificationConstants.CHANNEL_ID).apply {
             setSmallIcon(R.drawable.ic_baseline_bubble_chart_24)
-            setContentTitle("Погода сегодня")
+            setContentTitle(R.string.today_weather)
             setContentText(forecast.city)
             priority = NotificationCompat.PRIORITY_DEFAULT
             setContentIntent(pendingIntent)

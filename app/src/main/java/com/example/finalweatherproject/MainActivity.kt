@@ -39,7 +39,7 @@ class MainActivity : AppCompatActivity() {
         })
 
         Executors.newSingleThreadExecutor().execute {
-            val url = URL("https://community-open-weather-map.p.rapidapi.com/weather")
+            val url = URL(Constants.ADDITIONAL_URL)
             val connection = url.openConnection() as HttpURLConnection
             try{
                 val br = BufferedReader(InputStreamReader(connection.inputStream))

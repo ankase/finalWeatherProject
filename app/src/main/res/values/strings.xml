@@ -8,4 +8,5 @@
     <string name="radio_theme">Тема темная/светлая</string>
     <string name="radio_temperture_units">Единицы температуры °C/°F</string>
     <string name="check_update">Проверить обновление</string>
+    <string name="today_weather">Погода сегодня</string>
 </resources>

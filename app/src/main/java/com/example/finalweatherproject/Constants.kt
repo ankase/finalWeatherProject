@@ -5,4 +5,5 @@ object Constants {
     const val ID = "id"
     const val CITY = "city"
     const val LIST = "list"
+    const val ADDITIONAL_URL = "https://community-open-weather-map.p.rapidapi.com/weather"
 }

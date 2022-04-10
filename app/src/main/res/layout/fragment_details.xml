@@ -59,7 +59,7 @@
                     android:layout_width="@dimen/size250"
                     android:layout_height="@dimen/size250"
                     android:layout_marginTop="@dimen/margin32"
-                    android:alpha="0.75"
+                    android:alpha="@dimen/alpha_value"
                     android:src="@drawable/weather_icon"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
