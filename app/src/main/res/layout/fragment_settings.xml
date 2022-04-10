@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/settings_fragment_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/detail_background"
+    tools:context=".fragments.SettingsFragment">
+
+    <RadioGroup
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:id="@+id/radio_group"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin8"
+            android:text="@string/radio_group_header"
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            android:textColor="@android:color/white" />
+
+        <RadioButton
+            android:id="@+id/radio_theme"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin16"
+            android:layout_marginRight="@dimen/margin16"
+            android:text="@string/radio_theme"
+            android:textColor="@android:color/white" />
+
+        <RadioButton
+            android:id="@+id/radio_temperature_units"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin16"
+            android:layout_marginRight="@dimen/margin16"
+            android:text="@string/radio_temperture_units"
+            android:textColor="@android:color/white" />
+
+    </RadioGroup>
+
+    <Button
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/chipBackground"
+        android:text="@string/check_update"
+        android:textColor="@color/black"
+        android:layout_marginTop="@dimen/margin8">
+
+    </Button>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
